@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import './components/Icon';
+import Header from './components/Header';
+import Categories from './components/Categories';
+import OurExperience from './components/OurExperience';
+import Popular from './components/Popular';
+import TopDestinations from './components/TopDestinations';
+import AboutUs from './components/AboutUs';
+import Newsletter from './components/Newsletter';
+import Footer from './components/Footer';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return <>
+    <Header />
+    <Categories />
+    <OurExperience />
+    <Popular />
+    <TopDestinations />
+    <AboutUs />
+    <Newsletter />
+    <Footer />
+  </>
 }
 
 export default App;
