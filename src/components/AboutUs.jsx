@@ -88,7 +88,7 @@ function AboutUs() {
                   </div>
                 </div>
                 <div className="customer-slider_box">
-                  <p className="ff-Inter fs_18 fw_400 text_grey max-width_473 mb-3">
+                  <p className="ff-Inter fs_18 fw_400 text_grey max-width_549 mb-3">
                     Salty helped me a lot in finding the best place for our
                     first outdoor adventure trip. They responded very quickly
                     and gave me a detailed account of the place—its history, as
@@ -111,7 +111,7 @@ function AboutUs() {
                   </div>
                 </div>
                 <div className="customer-slider_box">
-                  <p className="ff-Inter fs_18 fw_400 text_grey max-width_473 mb-3">
+                  <p className="ff-Inter fs_18 fw_400 text_grey max-width_549 mb-3">
                     Salty helped me a lot in finding the best place for our
                     first outdoor adventure trip. They responded very quickly
                     and gave me a detailed account of the place—its history, as
@@ -134,7 +134,7 @@ function AboutUs() {
                   </div>
                 </div>
                 <div className="customer-slider_box">
-                  <p className="ff-Inter fs_18 fw_400 text_grey max-width_473 mb-3">
+                  <p className="ff-Inter fs_18 fw_400 text_grey max-width_549 mb-3">
                     Salty helped me a lot in finding the best place for our
                     first outdoor adventure trip. They responded very quickly
                     and gave me a detailed account of the place—its history, as
@@ -157,7 +157,7 @@ function AboutUs() {
                   </div>
                 </div>
                 <div className="customer-slider_box">
-                  <p className="ff-Inter fs_18 fw_400 text_grey max-width_473 mb-3">
+                  <p className="ff-Inter fs_18 fw_400 text_grey max-width_549 mb-3">
                     Salty helped me a lot in finding the best place for our
                     first outdoor adventure trip. They responded very quickly
                     and gave me a detailed account of the place—its history, as

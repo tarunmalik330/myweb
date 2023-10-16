@@ -24,7 +24,7 @@ function Header() {
                 <span className="me-1">
                   <Logo />
                 </span>
-                <h2 className="ff-sen fw_700 fs_20 text-black mr_72">Salty</h2>
+                <h2 className="ff-sen fw_700 fs_20 text-black mr_72 mb-0">Salty</h2>
                 <ul
                   id="navbar"
                   className="d-flex mb-0 flex-column list-unstyled flex-lg-row gap-5 justify-content-center align-items-center mobile_view z_index_3"
@@ -130,7 +130,7 @@ function Header() {
           <Container className="pt-3">
             <Row className="align-items-center justify-content-center">
               <Col
-                xl={6}
+              lg={8}   xl={6}
                 className="col-12 d-flex align-items-center justify-content-center mb-sm-5"
               >
                 <div>
@@ -142,7 +142,7 @@ function Header() {
                     tips, destination information and inspiration from us.
                   </p>
                   <Container>
-                    <Row className="big_button justify-content-center align-items-center mt_44">
+                    <Row className="big_button justify-content-center align-items-center mt_44 mx_aut o">
                       <Col
                         sm={5}
                         className="col-6 d-flex justify-content-center align-items-center btn_line position-relative"
